@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel! 👋
 
-<!--
-**gabrielml0/gabrielml0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco é construir uma base sólida em Ciência da Computação, mergulhando nos fundamentos de lógica, algoritmos e estruturas de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Jornada de Conhecimento
+- **Graduação em ADS:** Focado em análise de sistemas e arquitetura de software.
+- **CS50 (Harvard University):** Imersão profunda em C, Python, SQL e gerenciamento de memória.
+- **Python (Curso em Vídeo):** Especialização em lógica de programação com Gustavo Guanabara.
+
+### 🛠️ Tecnologias & Ferramentas em Estudo
+- **Linguagens:** Python, C, SQL
+- **Conceitos:** Algoritmos, Estrutura de Dados, Lógica de Baixo Nível
+- **Ambiente:** Linux (Terminal), Git, VS Code
+
+### 🎯 O objetivo agora
+Meu foco atual é o **aprendizado contínuo**. Estou documentando minha evolução e resolvendo desafios de lógica para criar um alicerce técnico forte e consistente.
+
+---
+
+### 📊 Estatísticas de Código
+![Status do GitHub](https://github-readme-stats.vercel.app)
+
+---
+*“Construindo o conhecimento, um commit de cada vez.”* 🚀
+
+
