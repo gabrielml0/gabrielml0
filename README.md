@@ -14,6 +14,9 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Meu foco �
 - **Conceitos:** Algoritmos, Estrutura de Dados, Lógica de Baixo Nível
 - **Ambiente:** Linux (Terminal), Git, VS Code
 
+### 🌍 Idiomas
+- **Inglês:** Nível Avançado (B2/C1) — Capacidade total para leitura de documentações, cursos internacionais e comunicação técnica.
+
 ### 🎯 O objetivo agora
 Meu foco atual é o **aprendizado contínuo**. Estou documentando minha evolução e resolvendo desafios de lógica para criar um alicerce técnico forte e consistente.
 
